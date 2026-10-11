@@ -22,7 +22,7 @@ Student ID: [905005700]
 - **Tuple:** used for the season, like ("Rainy", 2026)
 
 ## How to run it
-1. Install Python
+1. I Install Python
 2. I opened the project folder in VS Code
 3. I then open 'crop_monitor.py' and then clicked the Run button
 4. The crop records print in the terminal
