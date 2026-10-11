@@ -1,5 +1,4 @@
-# crop-yield-monitor
-Crop Yield Monitoring System in Python (OOP)
+
 # Crop Yield Monitoring System
 
 This is my PROG211 (Object-Oriented Programming 1) assignment at Limkokwing University, Sierra Leone. It's a small Python program that keeps track of crops on farms and how much each one yields.
