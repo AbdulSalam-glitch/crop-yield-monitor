@@ -53,7 +53,7 @@ PS C:\Users\dell\Desktop\oop prog>
 )
 
 ## DPG standards
-- **Open-source:** the code is public on GitHub
+- **Open-source:** the code is public on GitHub under the MIT License
 - **Inclusive and accessible:** it's plain text, so it runs on any computer without internet
 - **Privacy-respecting:** I don't store anyone's personal data. Farms only have an ID and a district
 - **Modular and reusable:** the classes and functions are separate, so more crops or features can be added later
