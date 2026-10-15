@@ -1,10 +1,11 @@
 
 # Crop Yield Monitoring System
 
-This is my PROG211 (Object-Oriented Programming 1) assignment at Limkokwing University, Sierra Leone. It's a small Python program that keeps track of crops on farms and how much each one yields.
+This is my PROG211 (Object-Oriented Programming 1) individual assignment 1 at Limkokwing University, Sierra Leone. It's a small Python program that keeps track of crops on farms and how much each one yields.
 
 Name: [Osman Abdul Salam Sesay]
 Student ID: [905005700]
+Class: BSEM1201
 
 ## What the program does
 - Stores farms and the crops grown on them
